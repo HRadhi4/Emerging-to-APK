@@ -8,6 +8,7 @@
 
 ### Required Software
 - **Node.js** - Download from nodejs.org (includes npm)
+- **Visual Studio Code** - Download from code.visualstudio.com
 - **Android Studio** - Download from developer.android.com/studio
 - **Yarn** (recommended) - Install via: `npm install -g yarn`
 - **Git** (optional) - For cloning repositories
